@@ -1,0 +1,11 @@
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\bin\Debug\Login.TipodeAcesso.exe.config
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\bin\Debug\Login.TipodeAcesso.exe
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\bin\Debug\Login.TipodeAcesso.pdb
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.csproj.AssemblyReference.cache
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.frmLogin.resources
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.Properties.Resources.resources
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.csproj.GenerateResource.cache
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.csproj.CoreCompileInputs.cache
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.exe
+C:\Projetos\Login.TipodeAcesso\Login.TipodeAcesso\obj\Debug\Login.TipodeAcesso.pdb
